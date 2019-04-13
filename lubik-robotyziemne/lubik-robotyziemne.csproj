@@ -135,18 +135,13 @@
   <ItemGroup>
     <Content Include="Content\all.css" />
     <Content Include="Content\all.min.css" />
-    <Content Include="Content\bootstrap-theme.css" />
-    <Content Include="Content\bootstrap-theme.min.css" />
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
-    <Content Include="Content\device-mockups.css" />
-    <Content Include="Content\device-mockups.min.css" />
+    <Content Include="Content\creative.css" />
+    <Content Include="Content\creative.min.css" />
     <Content Include="Scripts\jquery.magnific-popup.js" />
     <Content Include="Scripts\jquery.magnific-popup.min.js" />
     <Content Include="Content\magnific-popup.css" />
-    <Content Include="Content\new-age.css" />
-    <Content Include="Content\new-age.min.css" />
-    <Content Include="Content\simple-line-icons.css" />
     <Content Include="css\new-age.css" />
     <Content Include="css\new-age.min.css" />
     <Content Include="device-mockups\apple_watch\edition\gold.png" />
@@ -1950,8 +1945,6 @@
     <Content Include="fonts\glyphicons-halflings-regular.eot" />
     <Content Include="Content\bootstrap.min.css.map" />
     <Content Include="Content\bootstrap.css.map" />
-    <Content Include="Content\bootstrap-theme.min.css.map" />
-    <Content Include="Content\bootstrap-theme.css.map" />
     <None Include="packages.config" />
     <Content Include="Scripts\jquery-3.3.1.slim.min.map" />
     <Content Include="Scripts\jquery-3.3.1.min.map" />
