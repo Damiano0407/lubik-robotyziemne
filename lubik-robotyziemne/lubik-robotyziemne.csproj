@@ -238,37 +238,14 @@
     <Content Include="Content\Site.css" />
     <Content Include="img\app-store-badge.svg" />
     <Content Include="img\bg-cta.jpg" />
-    <Content Include="img\bg-pattern.png" />
-    <Content Include="img\demo-screen-1.jpg" />
     <Content Include="img\google-play-badge.svg" />
-    <Content Include="img\portfolio\fullsize\1.jpg" />
-    <Content Include="img\portfolio\fullsize\10.JPG" />
-    <Content Include="img\portfolio\fullsize\11.JPG" />
-    <Content Include="img\portfolio\fullsize\2.jpg" />
-    <Content Include="img\portfolio\fullsize\3.jpg" />
-    <Content Include="img\portfolio\fullsize\4.jpg" />
-    <Content Include="img\portfolio\fullsize\5.jpg" />
-    <Content Include="img\portfolio\fullsize\6.jpg" />
-    <Content Include="img\portfolio\fullsize\7.JPG" />
-    <Content Include="img\portfolio\fullsize\8.JPG" />
-    <Content Include="img\portfolio\fullsize\9.JPG" />
-    <Content Include="img\portfolio\thumbnails\1.jpg" />
-    <Content Include="img\portfolio\thumbnails\10.JPG" />
-    <Content Include="img\portfolio\thumbnails\11.JPG" />
-    <Content Include="img\portfolio\thumbnails\2.jpg" />
-    <Content Include="img\portfolio\thumbnails\3.jpg" />
-    <Content Include="img\portfolio\thumbnails\4.jpg" />
-    <Content Include="img\portfolio\thumbnails\5.jpg" />
-    <Content Include="img\portfolio\thumbnails\6.jpg" />
-    <Content Include="img\portfolio\thumbnails\7.JPG" />
-    <Content Include="img\portfolio\thumbnails\8.JPG" />
-    <Content Include="img\portfolio\thumbnails\9.JPG" />
     <Content Include="js\new-age.js" />
     <Content Include="js\new-age.min.js" />
     <Content Include="Scripts\bootstrap.bundle.js" />
     <Content Include="Scripts\bootstrap.bundle.min.js" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
+    <None Include="Properties\PublishProfiles\FolderProfile.pubxml" />
     <None Include="Scripts\jquery-3.3.1.intellisense.js" />
     <Content Include="Scripts\jquery-3.3.1.js" />
     <Content Include="Scripts\jquery-3.3.1.min.js" />
@@ -277,15 +254,11 @@
     <None Include="Scripts\jquery.validate-vsdoc.js" />
     <Content Include="Scripts\jquery.easing.js" />
     <Content Include="Scripts\jquery.easing.min.js" />
-    <Content Include="Scripts\jquery.js" />
-    <Content Include="Scripts\jquery.min.js" />
     <Content Include="Scripts\jquery.validate.js" />
     <Content Include="Scripts\jquery.validate.min.js" />
     <Content Include="Scripts\jquery.validate.unobtrusive.js" />
     <Content Include="Scripts\jquery.validate.unobtrusive.min.js" />
     <Content Include="Scripts\modernizr-2.8.3.js" />
-    <Content Include="Scripts\new-age.js" />
-    <Content Include="Scripts\new-age.min.js" />
     <Content Include="vendor\bootstrap\css\bootstrap-grid.css" />
     <Content Include="vendor\bootstrap\css\bootstrap-grid.min.css" />
     <Content Include="vendor\bootstrap\css\bootstrap-reboot.css" />
@@ -1936,6 +1909,8 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="img\portfolio\fullsize\" />
+    <Folder Include="img\portfolio\thumbnails\" />
     <Folder Include="Models\" />
   </ItemGroup>
   <ItemGroup>
